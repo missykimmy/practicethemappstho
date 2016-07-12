@@ -12,6 +12,7 @@
 		182E4C751D3553C9008664A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182E4C731D3553C9008664A0 /* Main.storyboard */; };
 		182E4C771D3553C9008664A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182E4C761D3553C9008664A0 /* Assets.xcassets */; };
 		182E4C7A1D3553C9008664A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182E4C781D3553C9008664A0 /* LaunchScreen.storyboard */; };
+		182E4C821D355F7D008664A0 /* zrdf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 182E4C811D355F7C008664A0 /* zrdf.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		182E4C761D3553C9008664A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		182E4C791D3553C9008664A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		182E4C7B1D3553C9008664A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		182E4C811D355F7C008664A0 /* zrdf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = zrdf.jpg; path = ../../../../Pictures/zrdf.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +56,10 @@
 		182E4C6E1D3553C9008664A0 /* MakingMoney */ = {
 			isa = PBXGroup;
 			children = (
+				182E4C811D355F7C008664A0 /* zrdf.jpg */,
 				182E4C6F1D3553C9008664A0 /* AppDelegate.swift */,
-				182E4C711D3553C9008664A0 /* ViewController.swift */,
 				182E4C731D3553C9008664A0 /* Main.storyboard */,
+				182E4C711D3553C9008664A0 /* ViewController.swift */,
 				182E4C761D3553C9008664A0 /* Assets.xcassets */,
 				182E4C781D3553C9008664A0 /* LaunchScreen.storyboard */,
 				182E4C7B1D3553C9008664A0 /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				182E4C7A1D3553C9008664A0 /* LaunchScreen.storyboard in Resources */,
+				182E4C821D355F7D008664A0 /* zrdf.jpg in Resources */,
 				182E4C771D3553C9008664A0 /* Assets.xcassets in Resources */,
 				182E4C751D3553C9008664A0 /* Main.storyboard in Resources */,
 			);
